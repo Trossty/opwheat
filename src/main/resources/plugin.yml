@@ -1,0 +1,4 @@
+name: Opwheat
+version: ${project.version}
+main: opwheat.opwheat.Main
+api-version: 1.16
